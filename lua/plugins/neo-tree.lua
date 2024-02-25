@@ -11,7 +11,7 @@ return {
       close_if_last_window = true,
       popup_border_style = "rounded",
       window = {
-        width = 30,
+        width = 40,
       },
       filesystem = {
         filtered_items = {
